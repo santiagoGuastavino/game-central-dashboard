@@ -6,7 +6,7 @@ let buildPath = path.resolve('./public/build');
 
 app.use(express.static(buildPath));
 
-let mainRouter = require('./routes/mainRouter');
+let mainRouter = require('./routes/main');
 
 app.use('/', mainRouter);
 
