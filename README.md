@@ -1,4 +1,4 @@
-[Game Central Dashboard](https://deploy-endpoint.com/)
+[Game Central Dashboard](https://g6-game-central.herokuapp.com/)
 ---
 
 _React.js administrator dashboard of [Game Central: ecommerce](https://github.com/matiasncocco/grupo_6_GameCentral)_
