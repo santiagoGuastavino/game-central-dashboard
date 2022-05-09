@@ -1,7 +1,7 @@
 [Game Central Dashboard](https://g6-game-central.herokuapp.com/)
 ---
 
-_React.js administrator dashboard of [Game Central: ecommerce](https://github.com/matiasncocco/grupo_6_GameCentral)_
+_React.js administrator dashboard of [Game Central: ecommerce](https://github.com/matiasncocco/grupo_6_GameCentral)._
 <h3>For this project I used:</h3>  
 
 - React.js  
